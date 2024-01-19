@@ -1,0 +1,17 @@
+body {
+    font: 400px 12px "Microsoft Yahei";
+    text-align: center;
+}
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th,td {
+    border: 1px solid black;
+    width: 150px;
+    height: 75px;
+}
+.last {
+    width: 150px;
+    height: 200px;RDC
+}
